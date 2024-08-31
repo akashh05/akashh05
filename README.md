@@ -22,7 +22,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: I’m a B.Tech student working as a Software Engineer, contributing to both frontend and backend development for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
