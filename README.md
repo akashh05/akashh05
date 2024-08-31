@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I develop webapplication and webpages.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/akash-sharma-40a936229)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sharmaakashpersonal@gmail.com)
 
 ---
 
