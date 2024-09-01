@@ -21,6 +21,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1280/1*8FUbq9XGxol4m478zql5Lg.gif" width="600" height="300"/>
+</div>
+
+---
+
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: I’m a B.Tech student working as a Software Engineer, contributing to both frontend and backend development for building web applications.
