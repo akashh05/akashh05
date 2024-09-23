@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I develop webapplication and webpages.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sharmaakashpersonal@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sharmaakashpersonal12186@gmail.com)
 
 ---
 
