@@ -31,19 +31,19 @@
 
 - 🔭 I’m currently working on [TaskVue](https://github.com/akashh05/TaskVue)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django**.
 
-- 👯 I’m looking to collaborate on **Development**
+- 👯 I’m looking to collaborate on **Development**.
 
 - 👨‍💻 All of my projects are available at [https://66d34ccdc54e7446a2eb8b7d--boisterous-raindrop-295033.netlify.app/](https://66d34ccdc54e7446a2eb8b7d--boisterous-raindrop-295033.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JS, Node.js, Express.js, MongoDB, SQL,**
+- 💬 Ask me about **HTML, CSS, JS, Node.js, Express.js, MongoDB, SQL**.
 
-- 📫 How to reach me **sharmaakashpersonal12186@gmail.com**
+- 📫 How to reach me **sharmaakashpersonal12186@gmail.com**.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JudbGUNlmRhqfdi3KT8nNdmt4A7CFexD/view](https://drive.google.com/file/d/1JudbGUNlmRhqfdi3KT8nNdmt4A7CFexD/view)
 
-- ⚡ Fun fact **I think I am little bit funny and curious about my work**
+- ⚡ Fun fact **I think I am little bit funny and curious about my work**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
